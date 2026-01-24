@@ -4,6 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Mobile+Developer;Cross-Platform+App+Specialist;Dart+%7C+Flutter+%7C+Firebase;Building+Beautiful+Mobile+Apps;Creating+Seamless+User+Experiences" alt="Flutter Mobile Developer typing banner"/>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+George+Ongoro;Full-Stack+Software+Developer;Builder+of+Useful+Things;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+</p>
+
 ## 🚀 About Me
 
 I build **native-quality Flutter apps** that ship fast on both iOS and Android. My focus: performant UI, smooth animations, and clean architecture that scales.
