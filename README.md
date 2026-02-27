@@ -4,10 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Dipak+Rana;Senior+Flutter+Developer;Mobile+App+Architect+%F0%9F%93%B1;Clean+Architecture+%7C+Scalable+Code;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </p>
 
-<a href="https://erdipakrana.web.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
 ## 🚀 About Me
 
 I build **native-quality Flutter apps** that ship fast on both iOS and Android. My focus: performant UI, smooth animations, and clean architecture that scales.
