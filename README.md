@@ -116,12 +116,6 @@ I build **native-quality Flutter apps** that ship fast on both iOS and Android. 
 - Code coverage analysis
 - Performance profiling
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipakrana844&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true" alt="GitHub activity graph for dipakrana844"/>
-</div>
-
 ## 💡 Why Work With Me?
 
 ✅ **Cross-Platform Expertise**: Build once, deploy everywhere  
@@ -203,3 +197,9 @@ Other        14 mins         ░░░░░░░░░░░░░░░░░
 ![](https://github-contributor-stats.vercel.app/api?username=dipakrana844&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ##
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipakrana844&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true" alt="GitHub activity graph for dipakrana844"/>
+</div>
